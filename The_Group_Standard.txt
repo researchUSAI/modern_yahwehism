@@ -64,167 +64,177 @@ We have refined the Standard to 174 without any additions, only reinterpretation
 
 Please take a look at the main document, the fillable/printable document (for use filling as you go while reading along with the Torah), and notes on community building, pertaining to structure and organizational decisions that will be subject to change. A main point of interest is the lack of female narrative in the Old Testament. It seems necessary to rectify this by explaining the silence through education. Starting with women canonizing their own ammendment, as an effort to prevent the omission of their voice going forward. More on that in other documents. 
 
-001. (P-001) To be generative: contribute to life, knowledge, community, and care. Biological reproduction is one expression of this, not the only one.
-002. (P-002) To track time deliberately and share that reckoning with the community.
-003. (P-003) To know and tell the story of your people's liberation from oppression, and to understand it as relevant to the present.
-004. (P-004) Know that there is something beyond your understanding, and that this unknown is the ground of all things.
-005. (N-001) Not to treat any finite system, ideology, person, institution, or concept as ultimate.
-006. (N-002) Not to construct a fixed image of Yahweh, the ultimate, or the good, and treat that image as the thing itself.
-007. (N-003) Not to give your devotion, obedience, or sacrifice to systems that do not serve the Whole.
-008. (N-004) Not to take an oath in vain.
-009. (N-005) Not to kidnap.
-010. (N-006) Not to give false testimony.
-011. (N-007) Not to kill an innocent. Not to create conditions that predictably and avoidably kill innocents.
-012. (N-008) Not to allow desire for what another has to distort your judgment or corrupt your action.
-013. (P-005) To carry out the laws concerning a worker.
-014. (P-006) For one who injures another to pay damages.
-015. (P-007) To judge regarding the damages caused by property.
-016. (P-008) To judge regarding the damages caused by dependents.
-017. (P-009) To judge a thief.
-018. (P-010) To judge regarding damage.
-019. (P-011) To judge regarding damage caused by uncontrolled or negligently managed forces.
-020. (P-012) To render judgment in questions regarding an unpaid worker.
-021. (P-013) To render judgment in questions regarding claims made by one against another.
-022. (P-014) To render judgment in questions regarding a paid worker.
-023. (P-015) To render judgment in questions regarding a borrower.
-024. (N-009) Not to use someone's origin, history, or transition against them with words.
-025. (N-010) Not to cheat anyone by exploiting their unfamiliarity, vulnerability, or outsider status.
-026. (N-011) Not to oppress those without advocates — the bereaved, the parentless, the isolated, the institutionalized.
-027. (P-016) To lend to the poor.
-028. (N-012) Not to demand payment of a debt when one knows that the other is impoverished, nor to cause them grief.
-029. (N-013) Not to facilitate predatory lending relationships. Do not enable loan structures that extract from those who cannot afford them.
-030. (N-014) Not to invoke the ultimate to sanctify your preferences, prejudices, or violence.
-031. (N-015) Not to listen to one litigant in the absence of the other.
-032. (N-016) To evaluate testimony by its content and corroboration, not by the social standing of the witness. Apply equal caution to the reputable.
-033. (P-017) To follow the majority if there is a difference of opinion concerning a law, while preserving the minority position in the record.
-034. (N-017) Not to render a conviction in a capital case when the verdict is uncertain.
-035. (P-018) To assist unloading a burden.
-036. (N-018) Not to pervert judgment.
-037. (N-019) Not to render a decision on the basis of assumption or reputation alone. Require evidence proportionate to the consequence of the judgment.
-038. (N-020) Not to accept bribes.
-039. (N-021) Not to coerce, manipulate, or pressure anyone into replacing their foundational commitments with your own.
-040. (P-019) To engage in regular practice of deliberate attention — reflection, meditation, or prayer — that interrupts the automaticity of daily life.
-041. (P-020) To make our homes places where the values of the Standard are practiced, not merely displayed.
-042. (P-021) To give.
-043. (P-022) For anyone who has evidence to testify in court.
-044. (P-023) To return a stolen object.
-045. (P-024) To clear the residue of completed processes. Do not let accumulation obscure the present.
-046. (N-022) Not to partake of unhealthy or spoiled foods.
-047. (N-023) Not to expose others to your contagion.
-048. (N-024) For one who is intoxicated or unwell not to render an important judgment.
-049. (P-025) For the community to maintain standards about what is consumed — food, media, information, substance — and to periodically evaluate those standards.
-050. (P-026) For anyone who bears significant vulnerability — through birth, illness, loss, or crisis — to receive care and support from the community.
-051. (P-027) For the process of purification — cleansing, reintegration, restoration after wrongdoing or loss — to involve a deliberate, embodied act of transition.
-052. (N-025) Not to be sexually intimate outside of mutual, informed, ongoing consent. Community standards regarding forbidden relationships should reflect protection from harm, not tradition alone.
-053. (N-026) Not to have intimate relations with a relative, within the scope of relationships where power imbalance and genetic risk are present.
-054. (N-027) Not to ignore the bodily needs of others, including those tied to reproductive cycles, chronic conditions, or other embodied vulnerabilities.
-055. (N-028) Not to violate the terms of another's committed relationship without their knowledge and consent.
-056. (N-029) Not to exploit or abuse anyone.
-057. (N-030) Not to exploit or abuse an animal.
-058. (P-028) To save for those in need.
-059. (P-029) To give to those in need.
-060. (N-031) Not to steal.
-061. (N-032) Not to deny a just claim.
-062. (N-033) Not to swear falsely in denying a monetary obligation.
-063. (N-034) Not to violate an oath.
-064. (N-035) Not to delay payment of a worker.
-065. (N-036) Not to rob.
-066. (N-037) Not to wrong by withholding one's due.
-067. (N-038) Not to mislead one unsuspecting.
-068. (N-039) Not to direct speech at another with the intent to diminish, wound, or destroy.
-069. (P-030) To treat litigants equally when they appear in court to be judged.
-070. (N-040) Not to act deceitfully in judgment.
-071. (N-041) Not to neglect someone in danger.
-072. (N-042) Not to share information about others that damages their reputation without serving a legitimate public interest.
-073. (P-031) To rebuke one who does wrong.
-074. (N-043) Not to allow hatred to become a settled orientation toward another. Anger is information; hatred that forecloses the possibility of change produces only decay. *[Uncertain: the update targets calcification of feeling into permanent posture rather than the feeling itself — but whether this is the right threshold remains unresolved.]*
-075. (N-044) Not to embarrass anyone.
-076. (P-032) To extend basic goodwill to everyone as a default orientation, and to actively work against the contraction of that circle.
-077. (N-045) Not to take revenge.
-078. (N-046) Not to let unresolved grievance calcify into permanent posture. Seek resolution; if resolution is impossible, find a way to carry the weight without weaponizing it. *[Uncertain: this conflicts with the legitimate need to remember harm and maintain protective distance. The line between healthy memory and harmful grudge is not clean.]*
-079. (P-033) To revere our home.
-080. (N-047) Not to adopt practices uncritically because others do them. Evaluate every custom against the Standard.
-081. (P-034) To render judgment in questions regarding business transactions.
-082. (P-035) To act in ways that honor the unknown — that treat reality with the reverence its complexity demands.
-083. (N-048) Not to claim the authority of the ultimate for your own limited agenda. Not to act in ways that make the unknown seem trivial, petty, or cruel.
-084. (N-049) Not to consume hastily.
-085. (N-050) Not to cultivate and deplete.
-086. (N-051) Not to harvest and deplete.
-087. (N-052) Not to cheat in business.
-088. (N-053) Not to hurt someone with words.
-089. (N-054) Not to convert commons to private use. Not to develop what has been set aside for shared or ecological purposes.
-090. (N-055) Not to lend at interest that causes net harm to the borrower. Interest that enables growth without trapping the borrower in extraction is permissible; interest that functions as a debt trap is not.
-091. (N-056) Not to have a worker perform servile tasks.
-092. (N-057) Not to treat a worker poorly.
-093. (N-058) Not to make a worker perform work beyond reasonable human capacity without adequate support, compensation, and rest.
-094. (N-059) Not to allow someone to work another rigorously.
-095. (P-036) To render judgment with regard to property which is dedicated.
-096. (N-060) Not to sell property that has been dedicated.
-097. (N-061) Not to redeem property that has been dedicated.
-098. (P-037) To remove from positions of community trust those who have demonstrated repeated disregard for the Standard, while leaving open the path of return through genuine change.
-099. (P-038) For one to confess which they have committed.
-100. (N-062) Not to allow distraction and drift to substitute for deliberate direction. Return regularly to The Standard as your orientation.
-101. (P-039) To keep watch over our houses.
-102. (P-040) To render judgment in questions regarding inheritances.
-103. (P-041) To carry out the laws regarding the nullification of vows.
-104. (N-063) Not to violate a vow which someone makes.
-105. (N-064) Not to condemn someone before they stand trial.
-106. (P-042) To render judgment on someone who accidentally kills another.
-107. (N-065) For a witness not to render a decision in a case in which they testified.
-108. (N-066) Not to appoint a judge who is unfit.
-109. (P-043) To hold the understanding that the Individual, Group, and Whole are expressions of one underlying reality, and to act from that understanding.
-110. (P-044) To love the unknown — to maintain a posture of reverence and curiosity toward what exceeds your understanding.
-111. (P-045) To maintain a regular practice of deliberate reflection — morning and evening as natural thresholds. The content matters less than the consistency and the sincerity.
-112. (P-046) To study The Standard and to teach it to others.
-113. (P-047) To make the values of the Standard visible and present in the spaces where you live.
-114. (P-048) To respect Yahweh — to treat your own limits seriously.
-115. (N-067) Not to demand that reality bend to confirm your expectations. Not to confuse your model of the Whole with the Whole itself.
-116. (N-068) For those in positions of danger and duty not to allow fear to override judgment or abandon their responsibilities to those depending on them.
-117. (P-049) To pause after receiving sustenance and acknowledge that you did not produce it alone.
-118. (P-050) To honor those who deliberately choose their commitments over those who inherit them.
-119. (P-051) To act from a place of trust in the underlying order of things, rather than from fear of what you cannot control.
-120. (P-052) To actively withdraw investment — attention, loyalty, resources — from systems that do not serve the Whole.
-121. (N-069) Not to destroy the sacred.
-122. (N-070) Not to give weight to predictions or prescriptions that come from systems you have already identified as misaligned with the Whole.
-123. (P-053) To cross-examine witnesses thoroughly.
-124. (N-071) Not to harm ourselves.
-125. (P-054) To remit all financial obligations periodically.
-126. (N-072) Not to demand the repayment of a loan indefinitely.
-127. (P-055) To seek to collect a debt in a timely manner.
-128. (N-073) Not to withhold lending money to someone or providing them with their needs.
-129. (P-056) To give to charity.
-130. (N-074) Not to send away a worker empty-handed in the end.
-131. (P-057) To give a severance gift to a worker.
-132. (P-058) To appoint judges and court officers in each and every community.
-133. (N-075) Not to make authoritative predictions or prescriptions on the basis of misaligned systems and present them as truth.
-134. (N-076) Not to repeat and amplify predictions you know to be false or fabricated.
-135. (P-059) To hold false witnesses accountable.
-136. (P-060) To wage war when necessary.
-137. (N-077) Not to destroy anything of value.
-138. (N-078) Not to consume to excess.
-139. (P-061) To return a lost object.
-140. (N-079) Not to ignore a lost object.
-141. (P-062) To load a burden.
-142. (N-080) Not to leave anyone fallen under their load.
-143. (P-063) To guard oneself.
-144. (N-081) Not to leave obstacles.
-145. (N-082) Not to punish one forced.
-146. (N-083) Not to wrong a worker.
-147. (N-084) Not to enter into debt arrangements that function as traps. Understand the terms of what you borrow; do not accept conditions that predictably exceed your capacity to repay.
-148. (P-064) For a worker to be allowed to eat.
-149. (N-085) For a worker not to take.
-150. (P-065) To have sexual relations only within consent.
-151. (N-086) Not to take security from a debtor by force.
-152. (N-087) Not to withhold the return of security to its owner when they need it.
-153. (P-066) To return security to its owner.
-154. (P-067) To pay a worker their wage on time.
-155. (N-088) Not to take security from those who are in structurally vulnerable positions — the recently bereaved, the elderly, the isolated.
-156. (N-089) Not to pervert justice.
-157. (P-068) To save one who is being pursued unjustly.
-158. (N-090) Not to allow sympathy for a wrongdoer to prevent just remedy for the harmed.
-159. (N-091) Not to allow personal affection or social proximity to shield someone from accountability.
-160. (N-092) Not to deal dishonestly.
-161. (P-069) To protect and provide for women, children, the elderly, and the vulnerable.
-162. (P-070) To act in ways that express the values of the Whole — justice, care, restoration, humility, growth.
-163. (P-071) For everyone to study and know The Standard.
-164. (N-093) Not to accept hospitality from those whose goodwill you are exploiting or whose generosity you have not earned.
+001. (P-001) To be fruitful and multiply., Gen 9:7
+002. (P-002) To sanctify the months and to calculate the years and months., Ex 12:2
+003. (P-003) To relate the narrative of the exodus of Egypt., Ex 13:8
+004. (P-004) Know that there is Yahweh., Ex 20:2
+005. (N-001) Not to consider the thought that there is another divinity aside from Yahweh., Ex 20:3
+006. (N-002) Not to make an idol - not to make one oneself or have one made for oneself by others -, Ex 20:4
+007. (N-003) Not to worship false gods with the types of service with which it is customary to worship them., Ex 20:4
+008. (N-004) Not to bow down to any false gods, even though they are not generally worshiped by bowing down before them., Ex 20:5
+009. (N-005) Not to take an oath in vain., Ex 20:7
+010. (N-006) Not to kidnap., Ex 20:13
+011. (N-007) Not to give false testimony., Ex 20:13
+012. (N-008) Not to kill an innocent., Ex 20:13
+013. (N-009) Not to covet., Ex 20:14
+014. (P-005) To carry out the laws concerning a worker., Ex 21:2
+015. (P-006) For one who injures another to pay damages., Ex 21:18
+016. (P-007) To judge regarding the damages caused by property., Ex 21:33
+017. (P-008) To judge regarding the damages caused by dependents., Ex 21:35
+018. (P-009) To judge a thief., Ex 21:37
+019. (P-010) To judge regarding damage., Ex 22:4
+020. (P-011) To judge regarding damage caused by fire., Ex 22:5
+021. (P-012) To render judgment in questions regarding an unpaid worker., Ex 22:6
+022. (P-013) To render judgment in questions regarding claims made by one against another., Ex 22:8
+023. (P-014) To render judgment in questions regarding a paid worker., Ex 22:9
+024. (P-015) To render judgment in questions regarding a borrower., Ex 22:13
+025. (N-010) Not to hurt a convert with words., Ex 22:20
+026. (N-011) Not to cheat a convert in business., Ex 22:20
+027. (N-012) Not to oppress any widow or orphan., Ex 22:21
+028. (P-016) To lend to the poor., Ex 22:24
+029. (N-013) Not to demand payment of a debt when one knows that the other is impoverished, nor to cause them grief., Ex 22:24
+030. (N-014) Not to intermediate between the borrower and lender when interest is involved, not to act as a guarantor or a witness to such a loan, nor to draw up a contract for it., Ex 22:24
+031. (N-015) Not to curse Yahweh's name., Ex 22:27
+032. (N-016) Not to listen to one litigant in the absence of the other., Ex 23:1
+033. (N-017) To listen to the disreputable with caution., Ex 23:1
+034. (P-017) To follow the majority if there is a difference of opinion concerning a law., Ex 23:2
+035. (N-018) Not to render a conviction in a capital case when the verdict is uncertain., Ex 23:2
+036. (P-018) To assist unloading a burden., Ex 23:5
+037. (N-019) Not to pervert judgment., Ex 23:6
+038. (N-020) Not to render a decision on the basis of a presumption, unless two witnesses observe the actual matter., Ex 23:7
+039. (N-021) Not to accept bribes., Ex 23:8
+040. (N-022) Not to take an oath on a false god as requested by one of its worshipers, nor to have one of them take an oath on their false god., Ex 23:13
+041. (N-023) Not to act as a missionary to persuade to worship false gods., Ex 23:13
+042. (P-019) To pray., Ex 23:25
+043. (P-020) To make our houses for Yahweh., Ex 25:8
+044. (P-021) To give., Ex 30:13
+045. (P-022) For anyone who has evidence to testify in court., Lev 5:1
+046. (P-023) To return a stolen object., Lev 5:23
+047. (P-024) To remove ashes., Lev 6:3
+048. (N-024) Not to partake of unhealthy or spoiled foods., Lev 7:19
+049. (N-025) For one who is contagious, not to partake of foods near others., Lev 7:20
+050. (N-026) Not to partake of unhealthy fat., Lev 7:23
+051. (N-027) For one who is intoxicated or unwell not to render an important judgement., Lev 10:9
+052. (P-025) For certain foods to be deemed unfit., Lev 11:34
+053. (P-026) For a woman who gives birth to receive care and support., Lev 12:2
+054. (P-027) For semen to be cleaned immediately., Lev 15:16
+055. (P-028) For the process of purification to involve water., Lev 15:16
+056. (N-028) Not to be intimate with one with whom sexual relations are forbidden., Lev 18:6
+057. (N-029) Not to have intimate relations with a relative., Lev 18:7-18
+058. (N-030) Not to ignore the need of a woman on her cycle., Lev 18:19
+059. (N-031) Not to commit adultery with one who is married., Lev 18:20
+060. (N-032) Not to exploit or abuse anyone., Lev 18:21
+061. (N-033) Not to exploit or abuse an animal., Lev 18:23
+062. (N-034) Not to make false gods even for others., Lev 19:4
+063. (N-035) Not to take interest in the worship of false gods., Lev 19:4
+064. (P-029) To save for those in need., Lev 19:9
+065. (P-030) To give to those in need., Lev 19:10
+066. (N-036) Not to steal., Lev 19:11
+067. (N-037) Not to deny a just claim., Lev 19:11
+068. (N-038) Not to swear falsely in denying a monetary obligation., Lev 19:11
+069. (N-039) Not to violate an oath., Lev 19:12
+070. (N-040) Not to delay payment of a worker., Lev 19:13
+071. (N-041) Not to rob., Lev 19:13
+072. (N-042) Not to wrong by withholding one's due., Lev 19:13
+073. (N-043) Not to mislead one unsuspecting., Lev 19:14
+074. (N-044) Not to curse another., Lev 19:14
+075. (P-031) To treat litigants equally when they appear in court to be judged., Lev 19:15
+076. (N-045) Not to act deceitfully in judgment., Lev 19:15
+077. (N-046) Not to neglect someone in danger., Lev 19:16
+078. (N-047) Not to gossip., Lev 19:16
+079. (P-032) To rebuke one who does wrong., Lev 19:17
+080. (N-048) Not to bear hatred in one's heart., Lev 19:17
+081. (N-049) Not to embarrass anyone., Lev 19:17
+082. (P-033) To love everyone., Lev 19:18
+083. (N-050) Not to take revenge., Lev 19:18
+084. (N-051) Not to bear a grudge., Lev 19:18
+085. (N-052) Not to tattoo our bodies., Lev 19:28
+086. (P-034) To revere our home., Lev 19:30
+087. (N-053) Not to follow the laws or customs of the worshipers of false gods., Lev 20:23
+088. (P-035) To render judgment in questions regarding business transactions., Lev 22:14
+089. (P-036) To sanctify Yahweh., Lev 22:32
+090. (N-054) Not to profane the name of Yahweh., Lev 22:32
+091. (N-055) Not to consume hastily., Lev 23:22
+092. (N-056) Not to cultivate and deplete., Lev 25:4
+093. (N-057) Not to harvest and deplete., Lev 25:4
+094. (N-058) Not to cheat in business., Lev 25:14
+095. (N-059) Not to hurt someone with words., Lev 25:17
+096. (N-060) Not to change the purpose of the [preserved] open areas and fields., Lev 25:34
+097. (N-061) Not to lend at interest., Lev 25:37
+098. (N-062) Not to have a worker perform servile tasks., Lev 25:39
+099. (N-063) Not to treat a worker poorly., Lev 25:42
+100. (N-064) Not to make a worker perform rigorous work., Lev 25:43
+101. (N-065) Not to allow someone to work another rigorously., Lev 25:53
+102. (P-037) To render judgment with regard to property which is dedicated., Lev 27:28
+103. (N-066) Not to sell property that has been dedicated., Lev 27:28
+104. (N-067) Not to redeem property that has been dedicated., Lev 27:28
+105. (P-038) To send repeat offenders out., Num 5:2
+106. (P-039) For one to confess which they have committed., Num 5:6
+107. (N-068) Not to stray., Num 15:39
+108. (P-040) To keep watch over our houses., Num 18:2
+109. (P-041) To render judgment in questions regarding inheritances., Num 27:8
+110. (P-042) To carry out the laws regarding the nullification of vows., Num 30:3
+111. (N-069) Not to violate a vow which someone makes., Num 30:3
+112. (N-070) Not to condemn someone before they stand trial., Num 35:12
+113. (P-043) To render judgment on someone who accidentally kills another., Num 35:25
+114. (N-071) For a witness not to render a decision in a case in which they testified., Num 35:30
+115. (N-072) Not to appoint a judge who is unfit., Deut 1:17
+116. (N-073) Not to desire., Deut 5:18
+117. (P-044) To unify Yahweh., Deut 6:4
+118. (P-045) To love Yahweh., Deut 6:5
+119. (P-046) To say our prayer twice daily., Deut 6:7
+120. (P-047) To study The Standard and to teach it to others., Deut 6:7
+121. (P-048) To affix The Standard in our homes., Deut 6:9
+122. (P-049) To respect Yahweh., Deut 6:13
+123. (N-074) Not to test Yahweh., Deut 6:16
+124. (N-075) Not to show favor to the worshipers of false gods., Deut 7:2
+125. (N-076) For soldiers not to fear or become frightened of the enemy during war., Deut 7:21
+126. (P-050) To bless Yahweh after eating., Deut 8:10
+127. (P-051) To appreciate converts., Deut 10:19
+128. (P-052) To rely on Yahweh., Deut 10:20
+129. (P-053) To deny false gods and all their objects of worship., Deut 12:2
+130. (N-077) Not to destroy the sacred., Deut 12:3
+131. (N-078) Not to listen to someone who prophesies in the name of false gods., Deut 13:4
+132. (N-079) Not to act as a missionary to persuade an individual to worship false gods., Deut 13:12
+133. (P-054) To cross-examine witnesses thoroughly., Deut 13:15
+134. (N-080) Not to harm ourselves., Deut 14:1
+135. (P-055) To remit all financial obligations periodically., Deut 15:2
+136. (N-081) Not to demand the repayment of a loan indefinitely., Deut 15:2
+137. (P-056) To seek to collect a debt in a timely manner., Deut 15:3
+138. (N-082) Not to withhold lending money to someone or providing them with their needs., Deut 15:7
+139. (P-057) To give to charity., Deut 15:8
+140. (N-083) Not to send away a worker empty-handed in the end., Deut 15:13
+141. (P-058) To give a severance gift to a worker., Deut 15:14
+142. (P-059) To appoint judges and court officers in each and every community., Deut 16:18
+143. (N-084) Not to prophesy in the name of false gods., Deut 18:20
+144. (N-085) Not to relate false prophecies., Deut 18:20
+145. (P-060) To hold false witnesses accountable., Deut 19:19
+146. (P-061) To wage war when necessary., Deut 20:10
+147. (N-086) Not to destroy anything of value., Deut 20:19
+148. (N-087) Not to consume to excess., Deut 21:20
+149. (P-062) To return a lost object., Deut 22:1
+150. (N-088) Not to ignore a lost object., Deut 22:3
+151. (P-063) To load a burden., Deut 22:4
+152. (N-089) Not to leave anyone fallen under their load., Deut 22:4
+153. (P-064) To guard oneself., Deut 22:8
+154. (N-090) Not to leave obstacles., Deut 22:8
+155. (N-091) Not to punish one forced., Deut 22:26
+156. (N-092) Not to wrong a worker., Deut 23:17
+157. (N-093) Not to borrow with interest., Deut 23:20
+158. (P-065) For a worker to be allowed to eat., Deut 23:25
+159. (N-094) For a worker not to take., Deut 23:25
+160. (P-066) To have sexual relations only within consent., Deut 24:1
+161. (N-095) Not to take security from a debtor by force., Deut 24:10
+162. (N-096) Not to withhold the return of security to its owner when they need it., Deut 24:12
+163. (P-067) To return security to its owner., Deut 24:13
+164. (P-068) To pay a worker their wage on time., Deut 24:15
+165. (N-097) Not to take security from a widow., Deut 24:17
+166. (N-098) Not to pervert justice., Deut 24:17
+167. (P-069) To save one who is being pursued unjustly., Deut 25:12
+168. (N-099) Not to have pity on someone who has caused damages., Deut 25:12
+169. (N-100) Not to have pity on someone who has done wrong., Deut 25:12
+170. (N-101) Not to deal dishonestly., Deut 25:13
+171. (P-070) To protect and provide for women, children, the elderly, and the vulnerable., Deut 25:17
+172. (P-071) To emulate Yahweh., Deut 28:9
+173. (P-072) For everyone to study and know The Standard., Deut 31:19
+174. (N-102) Not to take drinks from others., Deut 32:38
