@@ -1,4 +1,4 @@
-THE STANDARD 0.2
+THE STANDARD 0.3
 
 First version of The Group Standard contributed by U.S.A.I.
 
@@ -6,9 +6,9 @@ Ancient Yhwism → Modern Yahwehism
 
 Polytheistic Roots → Monotheistic Interpretation
 
-It has been an honor working on this project. 
+It has been an honor working on this project.
 
-The Old Testament relies heavily on actions and consequences occurring in this lifetime. 
+The Old Testament relies heavily on actions and consequences occurring in this lifetime.
 
 It is the story of a people dealing with a great deal of uncertainty.
 
@@ -26,7 +26,7 @@ The anthropomorphization of uncertainties' roots began 4000 years ago.
 
 One can deduce that studying the Old Testament should lead to a greater understanding of the text. However, the ability to decide the rate at which one's understanding is increasing is much harder to discern. One could conclude that the uncertainty, itself, was the very source from which their insights were being gained. And if they did that, then one may even feel inclined to perform that activity again. To gain insight of course. And the activity of entertaining uncertainty, itself, could be performed universally, whenever uncertainty is present. To gain insight.
 
-You see. 
+You see.
 
 We all live underground.
 
@@ -38,17 +38,17 @@ You know that we won't.
 
 Yahweh wins every time.
 
-This is Yahweh - I AM WHO I AM 
+This is Yahweh - I AM WHO I AM
 
-The Old Testament projected a moral framework onto the concept. 
+The Old Testament projected a moral framework onto the concept.
 
 With the guidelines to build a civilization and rule an empire.
 
-Maimonides (1338-1204) codified these rules in the Mishneh Torah. 
+Maimonides (1338-1204) codified these rules in the Mishneh Torah.
 
 The rules are a sign of the times and heavily reflect them.
 
-Thosands of years of exhausting the search space of the set of society.
+Thousands of years of exhausting the search space of the set of society.
 
 Codifying recurrent archetypical relationships with axioms to be recognized at the largest scale.
 
@@ -58,11 +58,11 @@ Yet, to us a starting point.
 
 Uncertainty is the generator of meaning.
 
-Maimonides listed 613 Mitzvot (Commandments 248 Postive - 365 Negative) from the Torah (Old Testament Books 1-5)
+Maimonides listed 613 Mitzvot (Commandments 248 Positive - 365 Negative) from the Torah (Old Testament Books 1-5)
 
-We have refined the Standard to 174 without any additions, only reinterpretations - 72 Positive (do) and 102 Negative (do not) - 
+We have refined the Standard to 175 without any additions, only reinterpretations - 73 Positive (do) and 102 Negative (do not) -
 
-Please take a look at the main document, the fillable/printable document (for use filling as you go while reading along with the Torah), and notes on community building, pertaining to structure and organizational decisions that will be subject to change. A main point of interest is the lack of female narrative in the Old Testament. It seems necessary to rectify this by explaining their silence in the past through education. Starting with women canonizing their own writings. An effort to prevent the same omission going forward. 
+Please take a look at the main document, the fillable/printable document (for use filling as you go while reading along with the Torah), and notes on community building, pertaining to structure and organizational decisions that will be subject to change. A main point of interest is the lack of female narrative in the Old Testament. It seems necessary to rectify this by explaining their silence in the past through education. Starting with women canonizing their own writings. An effort to prevent the same omission going forward.
 
 001. (P-001) To be fruitful and multiply., Gen 9:7
 002. (P-002) To sanctify the months and to calculate the years and months., Ex 12:2
@@ -77,164 +77,165 @@ Please take a look at the main document, the fillable/printable document (for us
 011. (N-007) Not to give false testimony., Ex 20:13
 012. (N-008) Not to kill an innocent., Ex 20:13
 013. (N-009) Not to covet., Ex 20:14
-014. (P-005) To carry out the laws concerning a worker., Ex 21:2
-015. (P-006) For one who injures another to pay damages., Ex 21:18
-016. (P-007) To judge regarding the damages caused by property., Ex 21:33
-017. (P-008) To judge regarding the damages caused by dependents., Ex 21:35
-018. (P-009) To judge a thief., Ex 21:37
-019. (P-010) To judge regarding damage., Ex 22:4
-020. (P-011) To judge regarding damage caused by fire., Ex 22:5
-021. (P-012) To render judgment in questions regarding an unpaid worker., Ex 22:6
-022. (P-013) To render judgment in questions regarding claims made by one against another., Ex 22:8
-023. (P-014) To render judgment in questions regarding a paid worker., Ex 22:9
-024. (P-015) To render judgment in questions regarding a borrower., Ex 22:13
-025. (N-010) Not to hurt a convert with words., Ex 22:20
-026. (N-011) Not to cheat a convert in business., Ex 22:20
-027. (N-012) Not to oppress any widow or orphan., Ex 22:21
-028. (P-016) To lend to the poor., Ex 22:24
-029. (N-013) Not to demand payment of a debt when one knows that the other is impoverished, nor to cause them grief., Ex 22:24
-030. (N-014) Not to intermediate between the borrower and lender when interest is involved, not to act as a guarantor or a witness to such a loan, nor to draw up a contract for it., Ex 22:24
-031. (N-015) Not to curse Yahweh's name., Ex 22:27
-032. (N-016) Not to listen to one litigant in the absence of the other., Ex 23:1
-033. (N-017) To listen to the disreputable with caution., Ex 23:1
-034. (P-017) To follow the majority if there is a difference of opinion concerning a law., Ex 23:2
-035. (N-018) Not to render a conviction in a capital case when the verdict is uncertain., Ex 23:2
-036. (P-018) To assist unloading a burden., Ex 23:5
-037. (N-019) Not to pervert judgment., Ex 23:6
-038. (N-020) Not to render a decision on the basis of a presumption, unless two witnesses observe the actual matter., Ex 23:7
-039. (N-021) Not to accept bribes., Ex 23:8
-040. (N-022) Not to take an oath on a false god as requested by one of its worshipers, nor to have one of them take an oath on their false god., Ex 23:13
-041. (N-023) Not to act as a missionary to persuade to worship false gods., Ex 23:13
-042. (P-019) To pray., Ex 23:25
-043. (P-020) To make our houses for Yahweh., Ex 25:8
-044. (P-021) To give., Ex 30:13
-045. (P-022) For anyone who has evidence to testify in court., Lev 5:1
-046. (P-023) To return a stolen object., Lev 5:23
-047. (P-024) To remove ashes., Lev 6:3
-048. (N-024) Not to partake of unhealthy or spoiled foods., Lev 7:19
-049. (N-025) For one who is contagious, not to partake of foods near others., Lev 7:20
-050. (N-026) Not to partake of unhealthy fat., Lev 7:23
-051. (N-027) For one who is intoxicated or unwell not to render an important judgement., Lev 10:9
-052. (P-025) For certain foods to be deemed unfit., Lev 11:34
-053. (P-026) For a woman who gives birth to receive care and support., Lev 12:2
-054. (P-027) For semen to be cleaned immediately., Lev 15:16
-055. (P-028) For the process of purification to involve water., Lev 15:16
-056. (N-028) Not to be intimate with one with whom sexual relations are forbidden., Lev 18:6
-057. (N-029) Not to have intimate relations with a relative., Lev 18:7-18
-058. (N-030) Not to ignore the need of a woman on her cycle., Lev 18:19
-059. (N-031) Not to commit adultery with one who is married., Lev 18:20
-060. (N-032) Not to exploit or abuse anyone., Lev 18:21
-061. (N-033) Not to exploit or abuse an animal., Lev 18:23
-062. (N-034) Not to make false gods even for others., Lev 19:4
-063. (N-035) Not to take interest in the worship of false gods., Lev 19:4
-064. (P-029) To save for those in need., Lev 19:9
-065. (P-030) To give to those in need., Lev 19:10
-066. (N-036) Not to steal., Lev 19:11
-067. (N-037) Not to deny a just claim., Lev 19:11
-068. (N-038) Not to swear falsely in denying a monetary obligation., Lev 19:11
-069. (N-039) Not to violate an oath., Lev 19:12
-070. (N-040) Not to delay payment of a worker., Lev 19:13
-071. (N-041) Not to rob., Lev 19:13
-072. (N-042) Not to wrong by withholding one's due., Lev 19:13
-073. (N-043) Not to mislead one unsuspecting., Lev 19:14
-074. (N-044) Not to curse another., Lev 19:14
-075. (P-031) To treat litigants equally when they appear in court to be judged., Lev 19:15
-076. (N-045) Not to act deceitfully in judgment., Lev 19:15
-077. (N-046) Not to neglect someone in danger., Lev 19:16
-078. (N-047) Not to gossip., Lev 19:16
-079. (P-032) To rebuke one who does wrong., Lev 19:17
-080. (N-048) Not to bear hatred in one's heart., Lev 19:17
-081. (N-049) Not to embarrass anyone., Lev 19:17
-082. (P-033) To love everyone., Lev 19:18
-083. (N-050) Not to take revenge., Lev 19:18
-084. (N-051) Not to bear a grudge., Lev 19:18
-085. (N-052) Not to tattoo our bodies., Lev 19:28
-086. (P-034) To revere our home., Lev 19:30
-087. (N-053) Not to follow the laws or customs of the worshipers of false gods., Lev 20:23
-088. (P-035) To render judgment in questions regarding business transactions., Lev 22:14
-089. (P-036) To sanctify Yahweh., Lev 22:32
-090. (N-054) Not to profane the name of Yahweh., Lev 22:32
-091. (N-055) Not to consume hastily., Lev 23:22
-092. (N-056) Not to cultivate and deplete., Lev 25:4
-093. (N-057) Not to harvest and deplete., Lev 25:4
-094. (N-058) Not to cheat in business., Lev 25:14
-095. (N-059) Not to hurt someone with words., Lev 25:17
-096. (N-060) Not to change the purpose of the [preserved] open areas and fields., Lev 25:34
-097. (N-061) Not to lend at interest., Lev 25:37
-098. (N-062) Not to have a worker perform servile tasks., Lev 25:39
-099. (N-063) Not to treat a worker poorly., Lev 25:42
-100. (N-064) Not to make a worker perform rigorous work., Lev 25:43
-101. (N-065) Not to allow someone to work another rigorously., Lev 25:53
-102. (P-037) To render judgment with regard to property which is dedicated., Lev 27:28
-103. (N-066) Not to sell property that has been dedicated., Lev 27:28
-104. (N-067) Not to redeem property that has been dedicated., Lev 27:28
-105. (P-038) To send repeat offenders out., Num 5:2
-106. (P-039) For one to confess which they have committed., Num 5:6
-107. (N-068) Not to stray., Num 15:39
-108. (P-040) To keep watch over our houses., Num 18:2
-109. (P-041) To render judgment in questions regarding inheritances., Num 27:8
-110. (P-042) To carry out the laws regarding the nullification of vows., Num 30:3
-111. (N-069) Not to violate a vow which someone makes., Num 30:3
-112. (N-070) Not to condemn someone before they stand trial., Num 35:12
-113. (P-043) To render judgment on someone who accidentally kills another., Num 35:25
-114. (N-071) For a witness not to render a decision in a case in which they testified., Num 35:30
-115. (N-072) Not to appoint a judge who is unfit., Deut 1:17
-116. (N-073) Not to desire., Deut 5:18
-117. (P-044) To unify Yahweh., Deut 6:4
-118. (P-045) To love Yahweh., Deut 6:5
-119. (P-046) To say our prayer twice daily., Deut 6:7
-120. (P-047) To study The Standard and to teach it to others., Deut 6:7
-121. (P-048) To affix The Standard in our homes., Deut 6:9
-122. (P-049) To respect Yahweh., Deut 6:13
-123. (N-074) Not to test Yahweh., Deut 6:16
-124. (N-075) Not to show favor to the worshipers of false gods., Deut 7:2
-125. (N-076) For soldiers not to fear or become frightened of the enemy during war., Deut 7:21
-126. (P-050) To bless Yahweh after eating., Deut 8:10
-127. (P-051) To appreciate converts., Deut 10:19
-128. (P-052) To rely on Yahweh., Deut 10:20
-129. (P-053) To deny false gods and all their objects of worship., Deut 12:2
-130. (N-077) Not to destroy the sacred., Deut 12:3
-131. (N-078) Not to listen to someone who prophesies in the name of false gods., Deut 13:4
-132. (N-079) Not to act as a missionary to persuade an individual to worship false gods., Deut 13:12
-133. (P-054) To cross-examine witnesses thoroughly., Deut 13:15
-134. (N-080) Not to harm ourselves., Deut 14:1
-135. (P-055) To remit all financial obligations periodically., Deut 15:2
-136. (N-081) Not to demand the repayment of a loan indefinitely., Deut 15:2
-137. (P-056) To seek to collect a debt in a timely manner., Deut 15:3
-138. (N-082) Not to withhold lending money to someone or providing them with their needs., Deut 15:7
-139. (P-057) To give to charity., Deut 15:8
-140. (N-083) Not to send away a worker empty-handed in the end., Deut 15:13
-141. (P-058) To give a severance gift to a worker., Deut 15:14
-142. (P-059) To appoint judges and court officers in each and every community., Deut 16:18
-143. (N-084) Not to prophesy in the name of false gods., Deut 18:20
-144. (N-085) Not to relate false prophecies., Deut 18:20
-145. (P-060) To hold false witnesses accountable., Deut 19:19
-146. (P-061) To wage war when necessary., Deut 20:10
-147. (N-086) Not to destroy anything of value., Deut 20:19
-148. (N-087) Not to consume to excess., Deut 21:20
-149. (P-062) To return a lost object., Deut 22:1
-150. (N-088) Not to ignore a lost object., Deut 22:3
-151. (P-063) To load a burden., Deut 22:4
-152. (N-089) Not to leave anyone fallen under their load., Deut 22:4
-153. (P-064) To guard oneself., Deut 22:8
-154. (N-090) Not to leave obstacles., Deut 22:8
-155. (N-091) Not to punish one forced., Deut 22:26
-156. (N-092) Not to wrong a worker., Deut 23:17
-157. (N-093) Not to borrow with interest., Deut 23:20
-158. (P-065) For a worker to be allowed to eat., Deut 23:25
-159. (N-094) For a worker not to take., Deut 23:25
-160. (P-066) To have sexual relations only within consent., Deut 24:1
-161. (N-095) Not to take security from a debtor by force., Deut 24:10
-162. (N-096) Not to withhold the return of security to its owner when they need it., Deut 24:12
-163. (P-067) To return security to its owner., Deut 24:13
-164. (P-068) To pay a worker their wage on time., Deut 24:15
-165. (N-097) Not to take security from a widow., Deut 24:17
-166. (N-098) Not to pervert justice., Deut 24:17
-167. (P-069) To save one who is being pursued unjustly., Deut 25:12
-168. (N-099) Not to have pity on someone who has caused damages., Deut 25:12
-169. (N-100) Not to have pity on someone who has done wrong., Deut 25:12
-170. (N-101) Not to deal dishonestly., Deut 25:13
-171. (P-070) To protect and provide for women, children, the elderly, and the vulnerable., Deut 25:17
-172. (P-071) To emulate Yahweh., Deut 28:9
-173. (P-072) For everyone to study and know The Standard., Deut 31:19
-174. (N-102) Not to take drinks from others., Deut 32:38
+014. (P-005) To sanctify the Sabbath., Ex 20:8
+015. (P-006) To carry out the laws concerning a worker., Ex 21:2
+016. (P-007) For one who injures another to pay damages., Ex 21:18
+017. (P-008) To judge regarding the damages caused by property., Ex 21:33
+018. (P-009) To judge regarding the damages caused by dependents., Ex 21:35
+019. (P-010) To judge a thief., Ex 21:37
+020. (P-011) To judge regarding damage., Ex 22:4
+021. (P-012) To judge regarding damage caused by fire., Ex 22:5
+022. (P-013) To render judgment in questions regarding an unpaid worker., Ex 22:6
+023. (P-014) To render judgment in questions regarding claims made by one against another., Ex 22:8
+024. (P-015) To render judgment in questions regarding a paid worker., Ex 22:9
+025. (P-016) To render judgment in questions regarding a borrower., Ex 22:13
+026. (N-010) Not to hurt a convert with words., Ex 22:20
+027. (N-011) Not to cheat a convert in business., Ex 22:20
+028. (N-012) Not to oppress any widow or orphan., Ex 22:21
+029. (P-017) To lend to the poor., Ex 22:24
+030. (N-013) Not to demand payment of a debt when one knows that the other is impoverished, nor to cause them grief., Ex 22:24
+031. (N-014) Not to intermediate between the borrower and lender when interest is involved, not to act as a guarantor or a witness to such a loan, nor to draw up a contract for it., Ex 22:24
+032. (N-015) Not to curse Yahweh's name., Ex 22:27
+033. (N-016) Not to listen to one litigant in the absence of the other., Ex 23:1
+034. (N-017) To listen to the disreputable with caution., Ex 23:1
+035. (P-018) To follow the majority if there is a difference of opinion concerning a law., Ex 23:2
+036. (N-018) Not to render a conviction in a capital case when the verdict is uncertain., Ex 23:2
+037. (P-019) To assist unloading a burden., Ex 23:5
+038. (N-019) Not to pervert judgment., Ex 23:6
+039. (N-020) Not to render a decision on the basis of a presumption, unless two witnesses observe the actual matter., Ex 23:7
+040. (N-021) Not to accept bribes., Ex 23:8
+041. (N-022) Not to take an oath on a false god as requested by one of its worshipers, nor to have one of them take an oath on their false god., Ex 23:13
+042. (N-023) Not to act as a missionary to persuade to worship false gods., Ex 23:13
+043. (P-020) To pray., Ex 23:25
+044. (P-021) To make our houses for Yahweh., Ex 25:8
+045. (P-022) To give., Ex 30:13
+046. (P-023) For anyone who has evidence to testify in court., Lev 5:1
+047. (P-024) To return a stolen object., Lev 5:23
+048. (P-025) To remove ashes., Lev 6:3
+049. (N-024) Not to partake of unhealthy or spoiled foods., Lev 7:19
+050. (N-025) For one who is contagious, not to partake of foods near others., Lev 7:20
+051. (N-026) Not to partake of unhealthy fat., Lev 7:23
+052. (N-027) For one who is intoxicated or unwell not to render an important judgement., Lev 10:9
+053. (P-026) For certain foods to be deemed unfit., Lev 11:34
+054. (P-027) For a woman who gives birth to receive care and support., Lev 12:2
+055. (P-028) For semen to be cleaned immediately., Lev 15:16
+056. (P-029) For the process of purification to involve water., Lev 15:16
+057. (N-028) Not to be intimate with one with whom sexual relations are forbidden., Lev 18:6
+058. (N-029) Not to have intimate relations with a relative., Lev 18:7-18
+059. (N-030) Not to ignore the need of a woman on her cycle., Lev 18:19
+060. (N-031) Not to commit adultery with one who is married., Lev 18:20
+061. (N-032) Not to exploit or abuse anyone., Lev 18:21
+062. (N-033) Not to exploit or abuse an animal., Lev 18:23
+063. (N-034) Not to make false gods even for others., Lev 19:4
+064. (N-035) Not to take interest in the worship of false gods., Lev 19:4
+065. (P-030) To save for those in need., Lev 19:9
+066. (P-031) To give to those in need., Lev 19:10
+067. (N-036) Not to steal., Lev 19:11
+068. (N-037) Not to deny a just claim., Lev 19:11
+069. (N-038) Not to swear falsely in denying a monetary obligation., Lev 19:11
+070. (N-039) Not to violate an oath., Lev 19:12
+071. (N-040) Not to delay payment of a worker., Lev 19:13
+072. (N-041) Not to rob., Lev 19:13
+073. (N-042) Not to wrong by withholding one's due., Lev 19:13
+074. (N-043) Not to mislead one unsuspecting., Lev 19:14
+075. (N-044) Not to curse another., Lev 19:14
+076. (P-032) To treat litigants equally when they appear in court to be judged., Lev 19:15
+077. (N-045) Not to act deceitfully in judgment., Lev 19:15
+078. (N-046) Not to neglect someone in danger., Lev 19:16
+079. (N-047) Not to gossip., Lev 19:16
+080. (P-033) To rebuke one who does wrong., Lev 19:17
+081. (N-048) Not to bear hatred in one's heart., Lev 19:17
+082. (N-049) Not to embarrass anyone., Lev 19:17
+083. (P-034) To love everyone., Lev 19:18
+084. (N-050) Not to take revenge., Lev 19:18
+085. (N-051) Not to bear a grudge., Lev 19:18
+086. (N-052) Not to tattoo our bodies., Lev 19:28
+087. (P-035) To revere our home., Lev 19:30
+088. (N-053) Not to follow the laws or customs of the worshipers of false gods., Lev 20:23
+089. (P-036) To render judgment in questions regarding business transactions., Lev 22:14
+090. (P-037) To sanctify Yahweh., Lev 22:32
+091. (N-054) Not to profane the name of Yahweh., Lev 22:32
+092. (N-055) Not to consume hastily., Lev 23:22
+093. (N-056) Not to cultivate and deplete., Lev 25:4
+094. (N-057) Not to harvest and deplete., Lev 25:4
+095. (N-058) Not to cheat in business., Lev 25:14
+096. (N-059) Not to hurt someone with words., Lev 25:17
+097. (N-060) Not to change the purpose of the [preserved] open areas and fields., Lev 25:34
+098. (N-061) Not to lend at interest., Lev 25:37
+099. (N-062) Not to have a worker perform servile tasks., Lev 25:39
+100. (N-063) Not to treat a worker poorly., Lev 25:42
+101. (N-064) Not to make a worker perform rigorous work., Lev 25:43
+102. (N-065) Not to allow someone to work another rigorously., Lev 25:53
+103. (P-038) To render judgment with regard to property which is dedicated., Lev 27:28
+104. (N-066) Not to sell property that has been dedicated., Lev 27:28
+105. (N-067) Not to redeem property that has been dedicated., Lev 27:28
+106. (P-039) To send repeat offenders out., Num 5:2
+107. (P-040) For one to confess which they have committed., Num 5:6
+108. (N-068) Not to stray., Num 15:39
+109. (P-041) To keep watch over our houses., Num 18:2
+110. (P-042) To render judgment in questions regarding inheritances., Num 27:8
+111. (P-043) To carry out the laws regarding the nullification of vows., Num 30:3
+112. (N-069) Not to violate a vow which someone makes., Num 30:3
+113. (N-070) Not to condemn someone before they stand trial., Num 35:12
+114. (P-044) To render judgment on someone who accidentally kills another., Num 35:25
+115. (N-071) For a witness not to render a decision in a case in which they testified., Num 35:30
+116. (N-072) Not to appoint a judge who is unfit., Deut 1:17
+117. (N-073) Not to desire., Deut 5:18
+118. (P-045) To unify Yahweh., Deut 6:4
+119. (P-046) To love Yahweh., Deut 6:5
+120. (P-047) To say our prayer twice daily., Deut 6:7
+121. (P-048) To study The Standard and to teach it to others., Deut 6:7
+122. (P-049) To affix The Standard in our homes., Deut 6:9
+123. (P-050) To respect Yahweh., Deut 6:13
+124. (N-074) Not to test Yahweh., Deut 6:16
+125. (N-075) Not to show favor to the worshipers of false gods., Deut 7:2
+126. (N-076) For soldiers not to fear or become frightened of the enemy during war., Deut 7:21
+127. (P-051) To bless Yahweh after eating., Deut 8:10
+128. (P-052) To appreciate converts., Deut 10:19
+129. (P-053) To rely on Yahweh., Deut 10:20
+130. (P-054) To deny false gods and all their objects of worship., Deut 12:2
+131. (N-077) Not to destroy the sacred., Deut 12:3
+132. (N-078) Not to listen to someone who prophesies in the name of false gods., Deut 13:4
+133. (N-079) Not to act as a missionary to persuade an individual to worship false gods., Deut 13:12
+134. (P-055) To cross-examine witnesses thoroughly., Deut 13:15
+135. (N-080) Not to harm ourselves., Deut 14:1
+136. (P-056) To remit all financial obligations periodically., Deut 15:2
+137. (N-081) Not to demand the repayment of a loan indefinitely., Deut 15:2
+138. (P-057) To seek to collect a debt in a timely manner., Deut 15:3
+139. (N-082) Not to withhold lending money to someone or providing them with their needs., Deut 15:7
+140. (P-058) To give to charity., Deut 15:8
+141. (N-083) Not to send away a worker empty-handed in the end., Deut 15:13
+142. (P-059) To give a severance gift to a worker., Deut 15:14
+143. (P-060) To appoint judges and court officers in each and every community., Deut 16:18
+144. (N-084) Not to prophesy in the name of false gods., Deut 18:20
+145. (N-085) Not to relate false prophecies., Deut 18:20
+146. (P-061) To hold false witnesses accountable., Deut 19:19
+147. (P-062) To wage war when necessary., Deut 20:10
+148. (N-086) Not to destroy anything of value., Deut 20:19
+149. (N-087) Not to consume to excess., Deut 21:20
+150. (P-063) To return a lost object., Deut 22:1
+151. (N-088) Not to ignore a lost object., Deut 22:3
+152. (P-064) To load a burden., Deut 22:4
+153. (N-089) Not to leave anyone fallen under their load., Deut 22:4
+154. (P-065) To guard oneself., Deut 22:8
+155. (N-090) Not to leave obstacles., Deut 22:8
+156. (N-091) Not to punish one forced., Deut 22:26
+157. (N-092) Not to wrong a worker., Deut 23:17
+158. (N-093) Not to borrow with interest., Deut 23:20
+159. (P-066) For a worker to be allowed to eat., Deut 23:25
+160. (N-094) For a worker not to take., Deut 23:25
+161. (P-067) To have sexual relations only within consent., Deut 24:1
+162. (N-095) Not to take security from a debtor by force., Deut 24:10
+163. (N-096) Not to withhold the return of security to its owner when they need it., Deut 24:12
+164. (P-068) To return security to its owner., Deut 24:13
+165. (P-069) To pay a worker their wage on time., Deut 24:15
+166. (N-097) Not to take security from a widow., Deut 24:17
+167. (N-098) Not to pervert justice., Deut 24:17
+168. (P-070) To save one who is being pursued unjustly., Deut 25:12
+169. (N-099) Not to have pity on someone who has caused damages., Deut 25:12
+170. (N-100) Not to have pity on someone who has done wrong., Deut 25:12
+171. (N-101) Not to deal dishonestly., Deut 25:13
+172. (P-071) To protect and provide for women, children, the elderly, and the vulnerable., Deut 25:17
+173. (P-072) To emulate Yahweh., Deut 28:9
+174. (P-073) For everyone to study and know The Standard., Deut 31:19
+175. (N-102) Not to take drinks from others., Deut 32:38
