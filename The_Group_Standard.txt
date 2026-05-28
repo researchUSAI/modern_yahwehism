@@ -91,7 +91,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "004",
     "type": "P-001",
-    "rule": "Know that Yahweh is.",
+    "rule": "To know that Yahweh is.",
     "source_text": "The first of the positive commandments is the mitzvah to know that there is a God, as [Exodus 20:2] states: \"I am God, your Lord.\"",
     "source_cite": "Exodus 20:2"
   },
