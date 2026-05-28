@@ -287,7 +287,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "032",
     "type": "N-060",
-    "rule": "Not to curse Yahweh's name.",
+    "rule": "Not to curse Yahweh.",
     "source_text": "The prohibition against blessing [i.e., cursing] God's name, as [Exodus 22:27] states: \"Do not curse God.\" [Leviticus 24:16] mentions the punishment: \"One who curses the name of God shall surely die.\"",
     "source_cite": "Exodus 22:27, Leviticus 24:16"
   },
@@ -301,7 +301,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "034",
     "type": "N-286",
-    "rule": "Not to listen to the disreputable without caution.",
+    "rule": "Not to listen to someone disreputable without caution.",
     "source_text": "For a sinner not to act as a witness, as [Exodus 23:1] states: \"Do not conspire with a wicked person to be a corrupt witness.\"",
     "source_cite": "Exodus 23:1"
   },
@@ -322,7 +322,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "037",
     "type": "P-202",
-    "rule": "To assist one unloading any burden.",
+    "rule": "To assist one unloading a burden.",
     "source_text": "To assist a colleague in unloading a burden which he or his beast [is carrying], as [Exodus 23:5] states: \"You shall surely help him.\"",
     "source_cite": "Exodus 23:5"
   },
@@ -588,7 +588,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "075",
     "type": "N-317",
-    "rule": "Not to curse any other.",
+    "rule": "Not to curse another.",
     "source_text": "Not to curse any other Jew, as [Leviticus 19:14] states: \"Do not curse [even] a deaf-mute.\"",
     "source_cite": "Leviticus 19:14"
   },
@@ -644,7 +644,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "083",
     "type": "P-206",
-    "rule": "To love everyone.",
+    "rule": "To love.",
     "source_text": "To love every member of our people, as [Leviticus 19:18] states: \"And you shall love your neighbor as yourself.\"",
     "source_cite": "Leviticus 19:18"
   },
@@ -700,7 +700,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "091",
     "type": "N-063",
-    "rule": "Not to profane the name of Yahweh.",
+    "rule": "Not to profane Yahweh.",
     "source_text": "Not to profane the name of the Holy One, blessed be He, as [Leviticus 22:32] states: \"Do not profane My holy name.\"",
     "source_cite": "Leviticus 22:32"
   },
@@ -777,7 +777,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "102",
     "type": "N-260",
-    "rule": "Not to allow another to work one rigorously.",
+    "rule": "Not to allow one to work another rigorously.",
     "source_text": "Not to allow a gentile [who purchased a Hebrew servant] to make him work rigorously, as [Leviticus 25:53] states: \"He shall not rule over him with rigor.\"",
     "source_cite": "Leviticus 25:53"
   },
@@ -889,7 +889,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "118",
     "type": "N-284",
-    "rule": "Not to appoint a judge who has been deemed unfit.",
+    "rule": "Not to appoint a judge who has is unqualified.",
     "source_text": "Not to appoint as a judge a man who is unlearned in the Torah, even if he is learned in other disciplines, as [Deuteronomy 1:17] states: \"Do not show favoritism regarding judgment.\"",
     "source_cite": "Deuteronomy 1:17"
   },
@@ -917,7 +917,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "122",
     "type": "P-010",
-    "rule": "To say our prayer twice daily.",
+    "rule": "To say our prayers twice daily.",
     "source_text": "To recite the Shema twice daily, as [Deuteronomy 6:7] states: \"And you shall speak of them when you lie down and when you arise.\"",
     "source_cite": "Deuteronomy 6:7"
   },
@@ -1022,7 +1022,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "137",
     "type": "N-045",
-    "rule": "Not to cause harm to ourselves.",
+    "rule": "Not to cause harm to oneself.",
     "source_text": "Not to make cuts in our flesh, as the worshipers of false gods do, as [Deuteronomy 14:1] states: \"Do not cut yourselves.\" Gedidah is another term for cutting.",
     "source_cite": "Deuteronomy 14:1"
   },
@@ -1141,14 +1141,14 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "154",
     "type": "P-203",
-    "rule": "To assist one loading any burden.",
+    "rule": "To assist one loading a burden.",
     "source_text": "To [help a colleague] load a burden unto a beast, as [Deuteronomy 22:4] states: \" You shall lift it up with him.\"",
     "source_cite": "Deuteronomy 22:4"
   },
   {
     "id": "155",
     "type": "N-270",
-    "rule": "Not to leave one fallen under their load.",
+    "rule": "Not to leave one fallen under a load.",
     "source_text": "Not to leave an animal fallen under its load on the road, as [Deuteronomy 22:4] states: \"You may not watch your neighbor's donkey....\"",
     "source_cite": "Deuteronomy 22:4"
   },
