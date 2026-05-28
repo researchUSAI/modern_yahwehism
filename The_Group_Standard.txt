@@ -91,7 +91,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "004",
     "type": "P-001",
-    "rule": "To know that Yahweh is.",
+    "rule": "Know that Yahweh is.",
     "source_text": "The first of the positive commandments is the mitzvah to know that there is a God, as [Exodus 20:2] states: \"I am God, your Lord.\"",
     "source_cite": "Exodus 20:2"
   },
@@ -287,7 +287,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "032",
     "type": "N-060",
-    "rule": "Not to curse Yahweh.",
+    "rule": "Not to curse Yahweh's name.",
     "source_text": "The prohibition against blessing [i.e., cursing] God's name, as [Exodus 22:27] states: \"Do not curse God.\" [Leviticus 24:16] mentions the punishment: \"One who curses the name of God shall surely die.\"",
     "source_cite": "Exodus 22:27, Leviticus 24:16"
   },
@@ -301,7 +301,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "034",
     "type": "N-286",
-    "rule": "Not to listen to someone disreputable without caution.",
+    "rule": "Not to listen to the disreputable without caution.",
     "source_text": "For a sinner not to act as a witness, as [Exodus 23:1] states: \"Do not conspire with a wicked person to be a corrupt witness.\"",
     "source_cite": "Exodus 23:1"
   },
@@ -322,7 +322,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "037",
     "type": "P-202",
-    "rule": "To assist one unloading a burden.",
+    "rule": "To assist one unloading any burden.",
     "source_text": "To assist a colleague in unloading a burden which he or his beast [is carrying], as [Exodus 23:5] states: \"You shall surely help him.\"",
     "source_cite": "Exodus 23:5"
   },
@@ -588,7 +588,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "075",
     "type": "N-317",
-    "rule": "Not to curse another.",
+    "rule": "Not to curse any other.",
     "source_text": "Not to curse any other Jew, as [Leviticus 19:14] states: \"Do not curse [even] a deaf-mute.\"",
     "source_cite": "Leviticus 19:14"
   },
@@ -644,7 +644,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "083",
     "type": "P-206",
-    "rule": "To love.",
+    "rule": "To love everyone.",
     "source_text": "To love every member of our people, as [Leviticus 19:18] states: \"And you shall love your neighbor as yourself.\"",
     "source_cite": "Leviticus 19:18"
   },
@@ -700,7 +700,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "091",
     "type": "N-063",
-    "rule": "Not to profane Yahweh.",
+    "rule": "Not to profane the name of Yahweh.",
     "source_text": "Not to profane the name of the Holy One, blessed be He, as [Leviticus 22:32] states: \"Do not profane My holy name.\"",
     "source_cite": "Leviticus 22:32"
   },
@@ -777,7 +777,7 @@ Please take a look at the main document, the fillable/printable document (for us
   {
     "id": "102",
     "type": "N-260",
-    "rule": "Not to allow one to work another rigorously.",
+    "rule": "Not to allow another to work one rigorously.",
     "source_text": "Not to allow a gentile [who purchased a Hebrew servant] to make him work rigorously, as [Leviticus 25:53] states: \"He shall not rule over him with rigor.\"",
     "source_cite": "Leviticus 25:53"
   },
@@ -839,457 +839,450 @@ Please take a look at the main document, the fillable/printable document (for us
   },
   {
     "id": "111",
-    "type": "P-105",
-    "rule": "For semen to be cleaned immediately.",
-    "source_text": "For semen to impart impurity.",
-    "source_cite": "Leviticus 15:32 (Glazer)"
+    "type": "P-095",
+    "rule": "To carry out the laws regarding the nullification of vows.",
+    "source_text": "To carry out the laws regarding the nullification of vows, as mentioned in the Torah.",
+    "source_cite": "Numbers 30:3 (Glazer)"
   },
   {
     "id": "112",
-    "type": "P-120",
-    "rule": "To save for those in need.",
-    "source_text": "To leave pe'ah.",
-    "source_cite": "Leviticus 19:9 (Glazer)"
-  },
-  {
-    "id": "113",
-    "type": "P-124",
-    "rule": "To give to those in need.",
-    "source_text": "To leave leket.",
-    "source_cite": "Leviticus 19:10 (Glazer)"
-  },
-  {
-    "id": "114",
     "type": "N-157",
     "rule": "Not to violate a vow which someone makes.",
     "source_text": "Not to violate a vow which a person makes forbidding his use of anything, as [Numbers 30:3] states: \"He shall not violate his word.\"",
     "source_cite": "Numbers 30:3"
   },
   {
-    "id": "115",
+    "id": "113",
     "type": "N-292",
     "rule": "Not to condemn someone before they stand trial.",
     "source_text": "Not to execute a person liable for execution before he stands trial, as [Numbers 35:12] states: \"The murderer shall not die [until he stands before the congregation].\"",
     "source_cite": "Numbers 35:12"
   },
   {
-    "id": "116",
+    "id": "114",
     "type": "P-225",
     "rule": "To render judgment on someone who accidentally kills another.",
     "source_text": "To exile a person who accidentally kills a person, as [Numbers 35:25] states: \"And he shall dwell there until the High Priest dies....\"",
     "source_cite": "Numbers 35:25"
   },
   {
-    "id": "117",
+    "id": "115",
     "type": "N-291",
     "rule": "For a witness not to render a decision in a case in which they testified.",
     "source_text": "For a witness not to render a decision in a capital case in which he testified, as [Numbers 35:30] states: \"One witness shall not testify in a capital case...\"",
     "source_cite": "Numbers 35:30"
   },
   {
-    "id": "118",
+    "id": "116",
     "type": "N-284",
-    "rule": "Not to appoint a judge who has is unqualified.",
+    "rule": "Not to appoint a judge who has been deemed unfit.",
     "source_text": "Not to appoint as a judge a man who is unlearned in the Torah, even if he is learned in other disciplines, as [Deuteronomy 1:17] states: \"Do not show favoritism regarding judgment.\"",
     "source_cite": "Deuteronomy 1:17"
   },
   {
-    "id": "119",
+    "id": "117",
     "type": "N-266",
     "rule": "Not to desire.",
     "source_text": "Not to desire, as [Deuteronomy 5:18] states: \"Do not desire your neighbor's house.\"",
     "source_cite": "Deuteronomy 5:18"
   },
   {
-    "id": "120",
+    "id": "118",
     "type": "P-002",
     "rule": "To unify Yahweh.",
     "source_text": "To unify Him, as [Deuteronomy 6:4] states: \"God is our Lord, God is one.\"",
     "source_cite": "Deuteronomy 6:4"
   },
   {
-    "id": "121",
+    "id": "119",
     "type": "P-003",
     "rule": "To love Yahweh.",
     "source_text": "To love Him, as [Deuteronomy 6:5] states: \"And you shall love God, your Lord.\"",
     "source_cite": "Deuteronomy 6:5"
   },
   {
-    "id": "122",
+    "id": "120",
     "type": "P-010",
-    "rule": "To say our prayers twice daily.",
+    "rule": "To say our prayer twice daily.",
     "source_text": "To recite the Shema twice daily, as [Deuteronomy 6:7] states: \"And you shall speak of them when you lie down and when you arise.\"",
     "source_cite": "Deuteronomy 6:7"
   },
   {
-    "id": "123",
+    "id": "121",
     "type": "P-011",
     "rule": "To study The Standard and to teach it to others.",
     "source_text": "To study Torah and to teach it [to others], as [Deuteronomy 6:7] states: \"And you shall teach them to your children.\"",
     "source_cite": "Deuteronomy 6:7"
   },
   {
-    "id": "124",
+    "id": "122",
     "type": "P-015",
     "rule": "To affix The Standard in our homes.",
     "source_text": "To affix a mezuzah, as [Deuteronomy 6:9] states: \"And you shall write them on the doorposts of your home.\"",
     "source_cite": "Deuteronomy 6:9"
   },
   {
-    "id": "125",
+    "id": "123",
     "type": "P-004",
     "rule": "To respect Yahweh.",
     "source_text": "To fear Him, as [Deuteronomy 6:13] states: \"Fear God, your Lord.\"",
     "source_cite": "Deuteronomy 6:13"
   },
   {
-    "id": "126",
+    "id": "124",
     "type": "N-064",
     "rule": "Not to test Yahweh.",
     "source_text": "Not to test the promises of God, as [Deuteronomy 6:16] states: \"Do not test God, your Lord.\"",
     "source_cite": "Deuteronomy 6:16"
   },
   {
-    "id": "127",
+    "id": "125",
     "type": "N-050",
     "rule": "Not to show favor to the worshipers of false gods.",
     "source_text": "Not to show favor to the worshipers of false gods, as [Deuteronomy 7:2] states: \"Do not show them favor.\"",
     "source_cite": "Deuteronomy 7:2"
   },
   {
-    "id": "128",
+    "id": "126",
     "type": "N-058",
     "rule": "For soldiers not to fear or become frightened of the enemy during war.",
     "source_text": "For soldiers not to fear or become frightened of the enemy during war, as [Deuteronomy 7:21] states: \"Do not panic before them,\" and [Deuteronomy 3:22] states: \"Do not fear them.\"",
     "source_cite": "Deuteronomy 7:21, Deuteronomy 3:22"
   },
   {
-    "id": "129",
+    "id": "127",
     "type": "P-019",
     "rule": "To bless Yahweh after eating.",
     "source_text": "To bless [God] after eating, as [Deuteronomy 8:10] states: \"[After] you eat and are satisfied, you shall bless God, your Lord.\"",
     "source_cite": "Deuteronomy 8:10"
   },
   {
-    "id": "130",
+    "id": "128",
     "type": "P-207",
     "rule": "To appreciate converts.",
     "source_text": "To love a convert, as [Deuteronomy 10:19] states: \"And you shall love a convert.\"",
     "source_cite": "Deuteronomy 10:19"
   },
   {
-    "id": "131",
+    "id": "129",
     "type": "P-006",
     "rule": "To rely on Yahweh.",
     "source_text": "To cling to Him, as [Deuteronomy 10:20] states: \"And you shall cling to Him.\"",
     "source_cite": "Deuteronomy 10:20"
   },
   {
-    "id": "132",
+    "id": "130",
     "type": "P-185",
     "rule": "To deny false gods and all their objects of worship.",
     "source_text": "To destroy false gods and all their objects of worship, as [Deuteronomy 12:2] states: \"You shall surely destroy....\"",
     "source_cite": "Deuteronomy 12:2"
   },
   {
-    "id": "133",
+    "id": "131",
     "type": "N-065",
     "rule": "Not to destroy the sacred.",
     "source_text": "Not to destroy the Temple, synagogues, or houses of study; and similarly, not to erase any of [God's] sacred names, nor to destroy any sacred texts, as [Deuteronomy 12:3-4] states: \"You shall surely destroy them. Do not do this to God, your Lord.\"",
     "source_cite": "Deuteronomy 12:3-4"
   },
   {
-    "id": "134",
+    "id": "132",
     "type": "N-028",
     "rule": "Not to listen to someone who prophesies in the name of false gods.",
     "source_text": "Not to listen to someone who prophesies in the name of false gods, as [Deuteronomy 13:4] states: \"Do not listen to the words of that prophet.\"",
     "source_cite": "Deuteronomy 13:4"
   },
   {
-    "id": "135",
+    "id": "133",
     "type": "N-016",
     "rule": "Not to act as a missionary to persuade an individual to worship false gods.",
     "source_text": "Not to act as a missionary [mesit] to persuade an individual Jew to worship false gods, as [Deuteronomy 13:12] states with regard to such missionaries: \"And they shall not continue to do so.\"",
     "source_cite": "Deuteronomy 13:12"
   },
   {
-    "id": "136",
+    "id": "134",
     "type": "P-179",
     "rule": "To cross-examine witnesses thoroughly.",
     "source_text": "To cross-examine the witnesses thoroughly, as [Deuteronomy 13:15] states: \"You must investigate and probe, making careful enquiry.\"",
     "source_cite": "Deuteronomy 13:15"
   },
   {
-    "id": "137",
+    "id": "135",
     "type": "N-045",
-    "rule": "Not to cause harm to oneself.",
+    "rule": "Not to cause harm to ourselves.",
     "source_text": "Not to make cuts in our flesh, as the worshipers of false gods do, as [Deuteronomy 14:1] states: \"Do not cut yourselves.\" Gedidah is another term for cutting.",
     "source_cite": "Deuteronomy 14:1"
   },
   {
-    "id": "138",
+    "id": "136",
     "type": "P-141",
     "rule": "To remit all financial obligations periodically.",
     "source_text": "To remit all financial [obligations] in the seventh year, as [Deuteronomy 15:2] states: \"Every creditor must remit....\"",
     "source_cite": "Deuteronomy 15:2"
   },
   {
-    "id": "139",
+    "id": "137",
     "type": "N-230",
     "rule": "Not to demand the repayment of a loan indefinitely.",
     "source_text": "Not to demand the repayment of a loan after the seventh year has passed, as [Deuteronomy 15:2] states: \"Do not demand payment from your fellow man.\"",
     "source_cite": "Deuteronomy 15:2"
   },
   {
-    "id": "140",
+    "id": "138",
     "type": "P-142",
     "rule": "To seek to collect a debt in a timely manner.",
     "source_text": "To seek to collect [a debt] from a gentile [in the seventh year], as [Deuteronomy 15:3] states: \"Seek to collect [a debt] from a gentile. However, what your brother owes you must remit....\"",
     "source_cite": "Deuteronomy 15:3"
   },
   {
-    "id": "141",
+    "id": "139",
     "type": "N-232",
     "rule": "Not to withhold lending money to someone or providing them with their needs.",
     "source_text": "Not to withhold lending money to a poor person or providing him with his needs, as [Deuteronomy 15:7] states: \"Do not harden your heart.\"",
     "source_cite": "Deuteronomy 15:7"
   },
   {
-    "id": "142",
+    "id": "140",
     "type": "P-195",
     "rule": "To give to charity.",
     "source_text": "To give charity, as [Deuteronomy 15:8] states: \"You shall surely open your hand [to your poor brother].\"",
     "source_cite": "Deuteronomy 15:8"
   },
   {
-    "id": "143",
+    "id": "141",
     "type": "N-233",
     "rule": "Not to send away a worker empty-handed in the end.",
     "source_text": "Not to send away a Hebrew servant empty-handed when he goes free, as [Deuteronomy 15:13] states: \"Do not send him away empty-handed.\"",
     "source_cite": "Deuteronomy 15:13"
   },
   {
-    "id": "144",
+    "id": "142",
     "type": "P-196",
     "rule": "To give a severance gift to a worker.",
     "source_text": "To give a severance gift to a Hebrew servant, as [Deuteronomy 15:14] states: \"You shall surely give him gifts....\" Similarly, [this gift is given] to a Hebrew maidservant.",
     "source_cite": "Deuteronomy 15:14"
   },
   {
-    "id": "145",
+    "id": "143",
     "type": "P-176",
     "rule": "To appoint judges and court officers in each and every community.",
     "source_text": "To appoint judges and court officers in each and every Jewish community, as [Deuteronomy 16:18] states: \"Appoint judges and court officers....\"",
     "source_cite": "Deuteronomy 16:18"
   },
   {
-    "id": "146",
+    "id": "144",
     "type": "N-026",
     "rule": "Not to prophesy in the name of false gods.",
     "source_text": "Not to prophesy in the name of false gods, as [Deuteronomy 18:20] states: \"[The prophet]... who speaks in the name of other gods [shall die].\"",
     "source_cite": "Deuteronomy 18:20"
   },
   {
-    "id": "147",
+    "id": "145",
     "type": "N-027",
     "rule": "Not to relate false prophecies.",
     "source_text": "Not to relate false prophecies, as [Deuteronomy 18:20] states: \"When a prophet presumptuously makes a declaration in My name which I have not commanded him....\"",
     "source_cite": "Deuteronomy 18:20"
   },
   {
-    "id": "148",
+    "id": "146",
     "type": "P-180",
     "rule": "To hold false witnesses accountable.",
     "source_text": "To [punish] false witnesses [by] giving them the same penalty that they wish to have imposed [on the defendant], as [Deuteronomy 19:19] states: \"And you shall do to him what he plotted to do to his brother.\"",
     "source_cite": "Deuteronomy 19:19"
   },
   {
-    "id": "149",
+    "id": "147",
     "type": "P-190",
     "rule": "To wage war when necessary.",
     "source_text": "To wage a voluntary war according to the laws prescribed by the Torah, as [Deuteronomy 20:10] states: \"When you approach the city....\"",
     "source_cite": "Deuteronomy 20:10"
   },
   {
-    "id": "150",
+    "id": "148",
     "type": "N-057",
     "rule": "Not to destroy anything of value.",
     "source_text": "Not to destroy fruit trees nor to destroy anything else of value, as [Deuteronomy 20:19] states: \"Do not destroy its trees.\"",
     "source_cite": "Deuteronomy 20:19"
   },
   {
-    "id": "151",
+    "id": "149",
     "type": "N-195",
     "rule": "Not to consume to excess.",
     "source_text": "Not to eat or drink like a glutton and a drunkard, as [Deuteronomy 21:20] states: \"This son of ours is a glutton and a drunkard.\"",
     "source_cite": "Deuteronomy 21:20"
   },
   {
-    "id": "152",
+    "id": "150",
     "type": "P-204",
     "rule": "To return a lost object.",
     "source_text": "To return a lost object, as [Deuteronomy 22:1] states: \"You shall surely return them to your brother.\"",
     "source_cite": "Deuteronomy 22:1"
   },
   {
-    "id": "153",
+    "id": "151",
     "type": "N-269",
     "rule": "Not to ignore a lost object.",
     "source_text": "Not to ignore a lost object, as [Deuteronomy 22:3] states: \"You may not ignore it.\"",
     "source_cite": "Deuteronomy 22:3"
   },
   {
-    "id": "154",
+    "id": "152",
     "type": "P-203",
-    "rule": "To assist one loading a burden.",
+    "rule": "To assist one loading any burden.",
     "source_text": "To [help a colleague] load a burden unto a beast, as [Deuteronomy 22:4] states: \" You shall lift it up with him.\"",
     "source_cite": "Deuteronomy 22:4"
   },
   {
-    "id": "155",
+    "id": "153",
     "type": "N-270",
-    "rule": "Not to leave one fallen under a load.",
+    "rule": "Not to leave one fallen under their load.",
     "source_text": "Not to leave an animal fallen under its load on the road, as [Deuteronomy 22:4] states: \"You may not watch your neighbor's donkey....\"",
     "source_cite": "Deuteronomy 22:4"
   },
   {
-    "id": "156",
+    "id": "154",
     "type": "P-184",
     "rule": "To guard oneself and our homes.",
     "source_text": "To construct a guard rail, as [Deuteronomy 22:8] states: \"And you shall construct a guard rail for your roof.\"",
     "source_cite": "Deuteronomy 22:8"
   },
   {
-    "id": "157",
+    "id": "155",
     "type": "N-298",
     "rule": "Not to leave obstacles.",
     "source_text": "Not to leave obstacles, as [Deuteronomy 22:8] states: \"...lest you bring blood upon your house.\"",
     "source_cite": "Deuteronomy 22:8"
   },
   {
-    "id": "158",
+    "id": "156",
     "type": "N-294",
     "rule": "Not to punish one forced.",
     "source_text": "Not to punish a person forced [to commit a sin], as [Deuteronomy 22:26] states: \"Do not do anything to the maiden.\"",
     "source_cite": "Deuteronomy 22:26"
   },
   {
-    "id": "159",
+    "id": "157",
     "type": "N-255",
     "rule": "Not to wrong a worker.",
     "source_text": "Not to wrong such a servant, as [Deuteronomy 23:17] states: \"He shall dwell in your midst, in the place which he selects... as he sees fit. Do not wrong him.\"",
     "source_cite": "Deuteronomy 23:17"
   },
   {
-    "id": "160",
+    "id": "158",
     "type": "N-236",
     "rule": "Not to borrow with interest.",
     "source_text": "Not to borrow with interest, as [inferred from Deuteronomy 23:20, which] states: \"Do not take interest from your brother.\"",
     "source_cite": "inferred from Deuteronomy 23:20"
   },
   {
-    "id": "161",
+    "id": "159",
     "type": "P-201",
     "rule": "For a worker to be allowed to eat.",
     "source_text": "For a hired worker to be allowed to eat [from produce] while he is working with it, as [Deuteronomy 23:25-26] states: \"When you enter your neighbor's vineyard... When you enter your neighbor's standing grain....\"",
     "source_cite": "Deuteronomy 23:25-26"
   },
   {
-    "id": "162",
+    "id": "160",
     "type": "N-268",
     "rule": "For a worker not to take.",
     "source_text": "For a worker not to take more than what he eats [from the produce he harvests], as [Deuteronomy 23:25] states: \"Do not put any into your receptacles.\"",
     "source_cite": "Deuteronomy 23:25"
   },
   {
-    "id": "163",
+    "id": "161",
     "type": "P-213",
     "rule": "To have sexual relations only within consent.",
     "source_text": "To have sexual relations [only within] marriage, as [Deuteronomy 24:1] states: \"If a man takes a woman [as a wife]....\"",
     "source_cite": "Deuteronomy 24:1"
   },
   {
-    "id": "164",
+    "id": "162",
     "type": "N-239",
     "rule": "Not to take security from a debtor by force.",
     "source_text": "Not to take security from a debtor by force, as [Deuteronomy 24:10] states: \"Do not enter his home to take security.\"",
     "source_cite": "Deuteronomy 24:10"
   },
   {
-    "id": "165",
+    "id": "163",
     "type": "N-240",
     "rule": "Not to withhold the return of security to its owner when they need it.",
     "source_text": "Not to withhold the return of security to its owner when he needs it, as [Deuteronomy 24:12] states: \"Do not lie down [to sleep] with his security\" - i.e., do not lie down while holding his security. Instead, return it to him at night when he needs it at night.",
     "source_cite": "Deuteronomy 24:12"
   },
   {
-    "id": "166",
+    "id": "164",
     "type": "P-199",
     "rule": "To return security to its owner.",
     "source_text": "To return security to its owner, as [Deuteronomy 24:13] states: \"You shall surely return the security to him.\"",
     "source_cite": "Deuteronomy 24:13"
   },
   {
-    "id": "167",
+    "id": "165",
     "type": "P-200",
     "rule": "To pay a worker their wage on time.",
     "source_text": "To pay a worker his wage on time, as [Deuteronomy 24:15] states: \"Pay him his wage on the day it is due.\"",
     "source_cite": "Deuteronomy 24:15"
   },
   {
-    "id": "168",
+    "id": "166",
     "type": "N-241",
     "rule": "Not to take security from a widow.",
     "source_text": "Not to take security from a widow, as [Deuteronomy 24:17] states: \"Do not take a widow's garment as security.\"",
     "source_cite": "Deuteronomy 24:17"
   },
   {
-    "id": "169",
+    "id": "167",
     "type": "N-280",
     "rule": "Not to pervert justice.",
     "source_text": "Not to pervert the justice due converts or orphans, as [Deuteronomy 24:17] states: \"Do not pervert the judgment of a convert or an orphan.\"",
     "source_cite": "Deuteronomy 24:17"
   },
   {
-    "id": "170",
+    "id": "168",
     "type": "P-247",
     "rule": "To save one who is being unjustly pursued.",
     "source_text": "To save a person who is being pursued even if it is necessary to kill the pursuer, as [Deuteronomy 25:12] states: \"And you shall cut off her hand....\"",
     "source_cite": "Deuteronomy 25:12"
   },
   {
-    "id": "171",
+    "id": "169",
     "type": "N-279",
     "rule": "Not to have pity on someone who has caused damages.",
     "source_text": "Not to have pity on a person who has caused damages in judgments concerning fines, as [Deuteronomy 25:12] states: \"Let your eye not pity.\"",
     "source_cite": "Deuteronomy 25:12"
   },
   {
-    "id": "172",
+    "id": "170",
     "type": "N-293",
     "rule": "Not to have pity on someone who has done wrong.",
     "source_text": "Not to have pity on a pursuer. Rather, he should be killed before he kills or rapes the person he is pursuing, as [Deuteronomy 25:12] states: \"And you shall cut off her hand. Show no pity.\"",
     "source_cite": "Deuteronomy 25:12"
   },
   {
-    "id": "173",
+    "id": "171",
     "type": "N-272",
     "rule": "Not to deal dishonestly.",
     "source_text": "Not to possess two sets of weights and measures, as [Deuteronomy 25:13] states: \"You may not have in your home....\"",
     "source_cite": "Deuteronomy 25:13"
   },
   {
-    "id": "174",
+    "id": "172",
     "type": "P-008",
     "rule": "To emulate Yahweh.",
     "source_text": "To emulate His good and just ways, as [Deuteronomy 28:9] states: \"And you shall walk in His ways.\"",
     "source_cite": "Deuteronomy 28:9"
   },
   {
-    "id": "175",
-    "type": "P-095",
-    "rule": "To carry out the laws regarding the nullification of vows.",
-    "source_text": "To carry out the laws regarding the nullification of vows, as mentioned in the Torah.",
-    "source_cite": "Numbers 30:3 (Glazer)"
+    "id": "173",
+    "type": "P-017",
+    "rule": "For one to know and study The Standard.",
+    "source_text": "For each man to write a Torah scroll for himself, as [Deuteronomy 31:19] states: \"Write down this song.\"",
+    "source_cite": "Deuteronomy 31:19"
+  },
+  {
+    "id": "174",
+    "type": "N-194",
+    "rule": "Not to drink idolatrous libations.",
+    "source_text": "Not to drink wine used for idolatrous libations, as [Deuteronomy 32:38] states: \"...who ate the fat of their sacrifices and drank the wine of their libations.\"",
+    "source_cite": "Deuteronomy 32:38"
   }
 ]
