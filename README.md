@@ -1,1 +1,1 @@
-Join the community and begin interacting at x.com/researchusai
+Join the community at x.com/researchusai
