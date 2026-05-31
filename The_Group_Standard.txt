@@ -1275,7 +1275,7 @@ Please take a look at the main document, the fillable/printable template (for us
     "source_text": "To emulate His good and just ways, as [Deuteronomy 28:9] states: \"And you shall walk in His ways.\"",
     "source_cite": "Deuteronomy 28:9"
   },
-  {
+  { 
     "id": "173",
     "type": "P-017",
     "rule": "For one to know and study The Standard.",
